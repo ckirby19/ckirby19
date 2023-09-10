@@ -7,19 +7,18 @@ My name is Conor Kirby and I am a Mechatronics Engineer who has worked in the UK
 - 🧪 Tactile Sensor Design & Testing
 - ⚕️ Medical Technology
 
-# Background
+## Background
 - 🧑‍🎓 MIT Physics and Mechanical Engineering BSc, 2019
 - 👨‍🎓 Imperial College London MSc, 2021
 - 🧑‍💻 Ocado Technology, Mechatronics Engineer
 
-In my own time, I am currently learning:
+## What am I learning?
 - Web sockets
 - Reinforcement Learning
 - How to create biological sensors
 
-Feel free to contact me on conorkirby1@gmail.com
-
-
+## Contact
+conorkirby1@gmail.com
 
 <!--
 **ckirby19/ckirby19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
