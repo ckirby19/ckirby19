@@ -1,4 +1,20 @@
-### Hi there 👋
+## 😄 Welcome!
+
+My name is Conor Kirby and I am a Mechatronics Engineer who has worked in the UK, USA and Japan on:
+- 🤖 Robotics
+- 🖨️ Additive Manufacturing
+- 🕸️ Web Development
+- 🧪 Tactile Sensor Design & Testing
+- ⚕️ Medical Technology
+
+In my own time, I am currently learning:
+- Web sockets
+- Reinforcement Learning
+- How to create biological sensors
+
+Feel free to contact me on conorkirby1@gmail.com
+
+
 
 <!--
 **ckirby19/ckirby19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
