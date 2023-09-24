@@ -1,6 +1,6 @@
 ## 😄 Welcome!
 
-My name is Conor Kirby and I am a Mechatronics Engineer who has worked in the UK, USA and Japan on:
+My name is Conor Kirby and I am a Mechatronics & Full Stack Engineer who has worked in the UK, USA and Japan on:
 - 🤖 Robotics
 - 🖨️ Additive Manufacturing
 - 🕸️ Web Development
@@ -10,10 +10,10 @@ My name is Conor Kirby and I am a Mechatronics Engineer who has worked in the UK
 ## Background
 - 🧑‍🎓 MIT Physics and Mechanical Engineering BSc, 2019
 - 👨‍🎓 Imperial College London MSc, 2021
-- 🧑‍💻 Ocado Technology, Mechatronics Engineer
 
 ## What am I learning?
 - Web sockets
+- Microsoft Orleans
 - Reinforcement Learning
 - How to create biological sensors
 
