@@ -5,17 +5,16 @@ My name is Conor Kirby and I am a Mechatronics & Full Stack Engineer who has wor
 - 🖨️ Additive Manufacturing
 - 🕸️ Web Development
 - 🧪 Tactile Sensor Design & Testing
-- ⚕️ Medical Technology
+- 🚑 Medical Technology
 
 ## Background
-- 🧑‍🎓 MIT Physics and Mechanical Engineering BSc, 2019
-- 👨‍🎓 Imperial College London MSc, 2021
+- 🇺🇸 MIT Physics and Mechanical Engineering BSc, 2019
+- 🇬🇧 Imperial College London MSc, 2021
 
-## What am I learning?
-- Web sockets
-- Microsoft Orleans
-- Reinforcement Learning
-- How to create biological sensors
+## What am I currently working on?
+- A 3 axis machine that learns to grow plants
+- Web development for Chayn.co
+- A website that plots live data from various home sensors
 
 ## Contact
 conorkirby1@gmail.com
