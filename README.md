@@ -13,7 +13,7 @@ My name is Conor Kirby and I am a Mechatronics & Full Stack Engineer who has wor
 
 ## What am I currently working on?
 - A 3 axis machine that learns to grow plants
-- Web development for Chayn.co
+- Web development for [Chayn.co](https://bloom.chayn.co/)
 - A website that plots live data from various home sensors
 
 ## Contact
