@@ -1,7 +1,7 @@
 ## 😄 Welcome!
 
 My name is Conor Kirby and I am a Mechatronics & Full Stack Engineer who has worked in the UK, USA and Japan on:
-- 🤖 Robotics
+- 🤖 Robotics & Reinforcement Learning
 - 🖨️ Additive Manufacturing
 - 🕸️ Web Development
 - 🧪 Tactile Sensor Design & Testing
@@ -12,9 +12,8 @@ My name is Conor Kirby and I am a Mechatronics & Full Stack Engineer who has wor
 - 🇬🇧 Imperial College London MSc, 2021
 
 ## What am I currently working on?
-- A 3 axis machine that learns to grow plants
-- Web development for [Chayn.co](https://bloom.chayn.co/)
-- A website that plots live data from various home sensors
+- A dashboard for LoL players to review their performance
+- A series of RL experiments to explore the development of intelligence
 
 ## Contact
 conorkirby1@gmail.com
